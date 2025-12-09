@@ -1,3 +1,3 @@
 # Week 03
 # Flask Basic
-*เรียรรู้พื้นฐาน Flask Framework*
+*เรียนรู้พื้นฐาน Flask Framework*
